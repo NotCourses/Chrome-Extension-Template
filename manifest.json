@@ -1,10 +1,6 @@
 {
-  // Where it says "Name" put the name of your extension.
-"name": "Chrome Extension",
-  // You can put any version you'd like but I'm going to put 1.0
-  "version": "1.0",
-  // Insert any description that will appear at chrome://extensions as the description.
-  "description": "This is a Chrome Extension made by xItzDiamondx",
-  // Manifest is the version of the information. The latest version as of April 2021 is Manifest 3.
+"name": "Getting Started Example",
+  "version": "0.1",
+  "description": "This is a Chrome Extension made by NotAddons",
   "manifest_version": 3
 }
